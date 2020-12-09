@@ -1,0 +1,56 @@
+{
+  "recruiter": [
+    {
+      "id": 1,
+      "first_name": "aravind",
+      "last_name": "raj",
+      "email": "recruiter@abc.in",
+      "password": "recruiter@123"
+    }
+  ],
+  "canditate": [
+    {
+      "id": 1,
+      "first_name": "prakash",
+      "last_name": "raj",
+      "email": "canditate@abc.in",
+      "password": "canditate@123"
+    }
+  ],
+  "joblist": [
+    {
+      "job_title": "Front end developer",
+      "vacancy": "2",
+      "exp_needed": "1-3",
+      "description": "good experience in javascript and angular ,good skills in ui developer",
+      "id": 1
+    },
+    {
+      "job_title": "Back end developer",
+      "vacancy": "2",
+      "exp_needed": "1-3",
+      "description": "good experience in java and sprinboot ,good skills to write api",
+      "id": 3
+    },
+    {
+      "job_title": "Mean Stack developer",
+      "vacancy": "3 yrs",
+      "exp_needed": "1-2",
+      "description": "nodejs , mongodb ,angular",
+      "id": 4
+    }
+  ],
+  "apply": [
+    {
+      "applied": "kesev",
+      "joblistId": "1",
+      "id": 1
+    },
+    {
+      "first_name": "prakash",
+      "last_name": "raj",
+      "joblistId": "1",
+      "id": 2
+    }
+  ]
+}
